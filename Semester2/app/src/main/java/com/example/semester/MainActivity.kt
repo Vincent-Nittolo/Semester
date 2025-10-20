@@ -136,7 +136,7 @@ fun MainScreen(viewModel: MainViewModel) {
                 if (monDigit == "mon0") {
                     buttonColor = Color.Blue
                     buttonPhrase = "Press to Open"
-                    goldIncrease = 50;
+                    goldIncrease = 50
 
                     Image(
                         painter = painterResource(id = imageId),
